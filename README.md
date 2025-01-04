@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PwC (Virtual Internship from Forage)**
 
-- 🌱 I’m currently learning **Clouds(azure), statistics, Machinee Learning**
+- 🌱 I’m currently learning **Clouds(azure), statistics, Machine Learning**
 
 - 💬 Ask me about **SQl, PowerBI, Pandas**
 
